@@ -139,8 +139,6 @@ public class MainActivity extends AppCompatActivity {
         }
 
         public void moveBall() {
-            Paint paint = new Paint();
-            paint.setColor(Color.GREEN);
             mBallX += 10f;
             mBallY -= 10f;
             this.invalidate();
