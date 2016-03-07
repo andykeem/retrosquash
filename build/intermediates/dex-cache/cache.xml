@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_3dd0ed0b889a96378468d76505483b64df85e14d.jar" />
+    </item>
+    <item
+        jar="/media/andy/3C7F18A44B5C7A70/lubuntu/dev/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_63f5d9b247412c49de0f4fa3866de336316549b1.jar" />
+    </item>
+    <item
+        jar="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_a065d33a9dce829186a232f798d0ab62b3e665ad.jar" />
+    </item>
+    <item
+        jar="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_fb853c4af3c7270c5123f50d66e5d81fdad557d3.jar" />
+    </item>
+    <item
+        jar="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_3a377e9255e008ec4b7dec12e3a8600fa1e0fead.jar" />
+    </item>
+    <item
+        jar="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/andy/AndroidStudioProjects/retrosquash/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_a54c5b09486774c51a9329b3ae0bc728932962a3.jar" />
+    </item>
+
+</items>
